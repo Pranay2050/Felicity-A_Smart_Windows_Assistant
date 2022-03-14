@@ -1,6 +1,6 @@
 # Felicity
-###The smart Windows assistant.
-###Below are the test videos of the functionalities.
+The smart Windows assistant.
+Below are the test videos of the functionalities.
 
 ## 1. Open things visible on your screen.
 
